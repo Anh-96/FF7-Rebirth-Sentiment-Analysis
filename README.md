@@ -1,6 +1,6 @@
-#FF7-Rebirth-Emotional-Analysis
+# FF7-Rebirth-Emotional-Analysis
 
-**Project Portfolio – Emotional Analysis of FF7 Rebirth Game Reviews**
+**Emotional Analysis of FF7 Rebirth Game Reviews**
 
 ---
 
